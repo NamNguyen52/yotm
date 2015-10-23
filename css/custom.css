@@ -1,0 +1,55 @@
+section.container { padding: 0;}
+#header .headerWrap { border-bottom: none; }
+
+.testimonialSlider { height: 350px; width: 100%; padding-top: 50px;}
+.testimonialSlider img { height: 200px; width: 200px; margin-bottom: 30px;}
+.testimonialSlider blockquote { text-align: center; }
+.slide-transparent-background { background-image: url('../images/yotm_images/3px-tile.png'); height: 100vh; width: 100%; opacity: 0.3; z-index: -1;}
+.slideDesc h2 { z-index: 100; text-shadow: -1px 2px 5px rgba(0, 0, 0, 0.8); }
+
+.classesBox { height: 650px; padding-bottom: 100px;}
+.subscribeBox { height: 800px; padding-bottom: 100px; }
+.teamItemWrap { height: 1100px; }
+
+
+.gridItem2 .gridItemDesc { background: rgba(246, 209, 71, 0.9); }
+.gridItemDesc .viewMore { color: #272727; }
+.mainItemDesc h3:before,
+.gridItemDesc h3:before { background: #272727; }
+.gridItemDesc h3:before { left: 41%; }
+.gridItemWhite .gridItemDesc .viewMore { color: #272727;}
+.gridItemWhite .gridItemDesc .viewMore i path { fill: #272727;}
+.mainItemDesc .viewMore { color: #272727; border: 2px solid #272727;}
+
+.teamItemImg { height: 200px; width: auto; }
+.quote-author { font-size: 18px; }
+.qualifications-header { text-align: center; font-size: 25px; color: #333333; margin-bottom: 20px; }
+.qualifications { text-align: center; margin-bottom: 40px; }
+.qualifications li { font-size: 20px; color: #333333; line-height: 23px; }
+
+
+.apartment-classes h1 { font-size: 30px; border-bottom: 2px solid; display: inline-block; margin-top: 35px; color: #333333;}
+.apartment-classes small { font-size: 14px; display: block;	margin-bottom: 15px; margin-top: 5px; }
+.apartment-classes p { line-height: 25px; }
+.apartment-classes b { font-weight: 700; }
+
+.storyDesc { width: 100%; float: initial; }
+.storyDesc h3 { margin-bottom: 50px; }
+.storyImg { margin: 0px 30px 0px 0px; }
+
+.event-partner-container { background-color: white; text-align: center; padding-top: 35px; padding-bottom: 30px; }
+.event-partner-container > h1 { font-size: 30px; display: inline; border-bottom: 2px solid #333333; color: #333333; }
+.event-partner-container > h3 {margin-top: 10px; margin-bottom: 25px; color: #333333; }
+.event-partner-row { display: inline-block; } 
+.event-partner-item { display: inline-block; } 
+.event-partner-item > a { font-size: 20px; border-bottom: 2px solid #333333; display: inline; padding-bottom: 5px; color: #333333; }
+.event-partner-item img { width: 150px; height: auto; margin: 15px; }
+
+
+p.teamItemDescText { line-height: 22px; }
+
+.copyright a {
+	font-size: 12px;
+}
+
+.teamItemDescWrap { max-width: 630px; overflow: scroll; }
